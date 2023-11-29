@@ -1,0 +1,195 @@
+Iteración nº: 1 -> 5.000 Instancias
+#############################  Datos ###############################
+1) Las instancias están repartidas en las dos clases de la siguiente forma:
+"label
+1    3325
+0    1881
+Name: count, dtype: int64"
+2) Instancias duplicadas:,2
+################################## Resultados #######################
+1)  Precision nuestro KMeans con w2v:,0.04491725768321513
+2)  Recall nuestro KMeans con w2v:,0.017142857142857144
+3) Puntuación F-Score para KMeans en todo el conjunto de datos:,0.02481497605572486
+4) Puntuación de la Silueta para KMeans en Word2Vec Features:,0.2492070921266411
+5) Tasa de Error:,0.13945447560507107
+#################################################################
+#################################################################
+#################################################################
+
+Iteración nº: 2 -> 7.000 Instancias
+#############################  Datos ###############################
+1) Las instancias están repartidas en las dos clases de la siguiente forma:
+"label
+1    3650
+0    3556
+Name: count, dtype: int64"
+2) Instancias duplicadas:,34
+################################## Resultados #######################
+1)  Precision nuestro KMeans con w2v:,0.025052192066805846
+2)  Recall nuestro KMeans con w2v:,0.01643835616438356
+3) Puntuación F-Score para KMeans en todo el conjunto de datos:,0.019851116625310174
+4) Puntuación de la Silueta para KMeans en Word2Vec Features:,0.1812123217440898
+5) Tasa de Error:,0.1777685262281432
+#################################################################
+#################################################################
+#################################################################
+
+
+Iteración nº: 3 -> Conjunto Original(9.000 Instancias)
+#############################  Datos ###############################
+1) Las instancias están repartidas en las dos clases de la siguiente forma:
+"label
+0    5144
+1    4062
+Name: count, dtype: int64"
+2) Instancias duplicadas:,327
+################################## Resultados #######################
+1)  Precision nuestro KMeans con w2v:,0.6121596534653465
+2)  Recall nuestro KMeans con w2v:,0.9741506646971935
+3) Puntuación F-Score para KMeans en todo el conjunto de datos:,0.7518525555766672
+4) Puntuación de la Silueta para KMeans en Word2Vec Features:,0.16612671491698686
+5) Tasa de Error:,0.2837280034759939
+#################################################################
+#################################################################
+#################################################################
+
+
+
+Iteración nº: 4 -> 11.000 Instancias
+#############################  Datos ###############################
+1) Las instancias están repartidas en las dos clases de la siguiente forma:
+"label
+0    6165
+1    5041
+Name: count, dtype: int64"
+2) Instancias duplicadas:,327
+################################## Resultados #######################
+1)  Precision nuestro KMeans con w2v:,0.6200354161396407
+2)  Recall nuestro KMeans con w2v:,0.9724261059313628
+3) Puntuación F-Score para KMeans en todo el conjunto de datos:,0.7572410597049509
+4) Puntuación de la Silueta para KMeans en Word2Vec Features:,0.1632988915725302
+5) Tasa de Error:,0.28047474567196146
+#################################################################
+#################################################################
+#################################################################
+
+Iteración nº: 5 -> 13.000 Instancias
+#############################  Datos ###############################
+1) Las instancias están repartidas en las dos clases de la siguiente forma:
+"label
+0    7159
+1    6047
+Name: count, dtype: int64"
+2) Instancias duplicadas:,327
+################################## Resultados #######################
+1)  Precision nuestro KMeans con w2v:,0.6309205602480488
+2)  Recall nuestro KMeans con w2v:,0.9758557962626095
+3) Puntuación F-Score para KMeans en todo el conjunto de datos:,0.7663636363636364
+4) Puntuación de la Silueta para KMeans en Word2Vec Features:,0.17279188967081463
+5) Tasa de Error:,0.2724519157958504
+#################################################################
+#################################################################
+#################################################################
+
+Iteración nº: 6 -> 15.000 Instancias
+#############################  Datos ###############################
+1) Las instancias están repartidas en las dos clases de la siguiente forma:
+"label
+0    8194
+1    7012
+Name: count, dtype: int64"
+2) Instancias duplicadas:,327
+################################## Resultados #######################
+1)  Precision nuestro KMeans con w2v:,0.4626245299201689
+2)  Recall nuestro KMeans con w2v:,1.0
+3) Puntuación F-Score para KMeans en todo el conjunto de datos:,0.6325950651811088
+4) Puntuación de la Silueta para KMeans en Word2Vec Features:,0.6610189107541974
+5) Tasa de Error:,0.4611337629882941
+#################################################################
+#################################################################
+#################################################################
+
+Iteración nº: 7 -> 17.000 Instancias
+#############################  Datos ###############################
+1) Las instancias están repartidas en las dos clases de la siguiente forma:
+"label
+0    9220
+1    7986
+Name: count, dtype: int64"
+2) Instancias duplicadas:,327
+################################## Resultados #######################
+1)  Precision nuestro KMeans con w2v:,0.0
+2)  Recall nuestro KMeans con w2v:,0.0
+3) Puntuación F-Score para KMeans en todo el conjunto de datos:,0.0
+4) Puntuación de la Silueta para KMeans en Word2Vec Features:,0.6713398372754158
+5) Tasa de Error:,0.4641404161339068
+#################################################################
+#################################################################
+#################################################################
+
+Iteración nº: 2 -> 19.000 Instancias 
+#############################  Datos ###############################
+1) Las instancias están repartidas en las dos clases de la siguiente forma:
+"label
+0    10229
+1     8977
+Name: count, dtype: int64"
+2) Instancias duplicadas:,327
+################################## Resultados #######################
+1)  Precision nuestro KMeans con w2v:,0.46926293779404077
+2)  Recall nuestro KMeans con w2v:,1.0
+3) Puntuación F-Score para KMeans en todo el conjunto de datos:,0.638773259330416
+4) Puntuación de la Silueta para KMeans en Word2Vec Features:,0.6844808121472331
+5) Tasa de Error:,0.4674060189524107
+#################################################################
+#################################################################
+#################################################################
+
+Iteración nº: 2 -> 21.000 instancias
+#############################  Datos ###############################
+1) Las instancias están repartidas en las dos clases de la siguiente forma:
+"label
+0    11225
+1     9981
+Name: count, dtype: int64"
+2) Instancias duplicadas:,327
+################################## Resultados #######################
+1)  Precision nuestro KMeans con w2v:,0.47283149367568333
+2)  Recall nuestro KMeans con w2v:,1.0
+3) Puntuación F-Score para KMeans en todo el conjunto de datos:,0.6420714055966549
+4) Puntuación de la Silueta para KMeans en Word2Vec Features:,0.6876882163012678
+5) Tasa de Error:,0.47066867867584644
+#################################################################
+#################################################################
+#################################################################
+
+Iteración nº: 2 -> 23.000 instancias
+#############################  Datos ###############################
+1) Las instancias están repartidas en las dos clases de la siguiente forma:
+"label
+0    12238
+1    10968
+Name: count, dtype: int64"
+2) Instancias duplicadas:,327
+################################## Resultados #######################
+1)  Precision nuestro KMeans con w2v:,0.47509313003551934
+2)  Recall nuestro KMeans con w2v:,1.0
+3) Puntuación F-Score para KMeans en todo el conjunto de datos:,0.6441534034181006
+4) Puntuación de la Silueta para KMeans en Word2Vec Features:,0.6902576519805377
+5) Tasa de Error:,0.47263638714125655
+#################################################################
+#################################################################
+#################################################################
+
+#####################################################################################################################################################
+######################################################################################################################################################
+
+Iteración nº: 2 -> Borrado de 2000 instancias aleatorias
+#############################  Datos ###############################
+1) Las instancias están repartidas en las dos clases de la siguiente forma:
+Iteración nº: 2 -> Borrado de 2000 instancias aleatorias
+#############################  Datos ###############################
+1) Las instancias están repartidas en las dos clases de la siguiente forma:
+Iteración nº: 2 -> Borrado de 2000 instancias aleatorias
+#############################  Datos ###############################
+1) Las instancias están repartidas en las dos clases de la siguiente forma:
